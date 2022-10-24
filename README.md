@@ -1,2 +1,2 @@
 # TravellkaApp
-<h2>Helpful app for searching optimal wat to get trip</h2>
+<h2>Helpful app for searching optimal way to get trip</h2>
