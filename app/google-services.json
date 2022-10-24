@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "552760422109",
+    "project_id": "kursovayatestget",
+    "storage_bucket": "kursovayatestget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552760422109:android:9a7bc10177e8c4a785f534",
+        "android_client_info": {
+          "package_name": "com.example.kursovayatestget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552760422109-k4aja6idhsdfhdfpiueubvnsmvdlslke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kursovayatestget",
+            "certificate_hash": "2b08b83d31fa25a3f729236858a79f6856772fc3"
+          }
+        },
+        {
+          "client_id": "552760422109-gkkubgeaukevgrgseojnjnc2sfls771t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXaO9a7Z_57T-20bKHUsmp8SqOWoCXA10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552760422109-gkkubgeaukevgrgseojnjnc2sfls771t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

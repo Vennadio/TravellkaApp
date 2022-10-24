@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KursovayaTestGet</string>
+    <string name="app_in_name">Travelka</string>
+    <string name="app_on_register">Welcome on our app</string>
+    <string name="app_bottom_text">Зайдите в свою учетную запись</string>
+    <string name="btn_SignIn">Войти</string>
+    <string name="btn_register">Регистрация</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.169" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_asia.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_chech.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_europe.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_german_aactivity.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_main2.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_start.xml" value="0.14130434782608695" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_tailand.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_tailand_acrivity.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/activity_turkey.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/italy_window.xml" value="0.25" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/item_layout.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/list_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/register_widget.xml" value="0.17552083333333332" />
+        <entry key="..\:/DataFiles/KursovayaTestGet/app/src/main/res/layout/sign_in.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
